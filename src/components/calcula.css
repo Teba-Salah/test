@@ -1,0 +1,16 @@
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button{
+-webkit-appearance: none;
+margin: 0;
+}
+
+input{padding: 5px;}
+button{margin-top: 10px;
+padding: 5px 16px;
+margin-right: 5px;}
+
+.btn1{background: #ff6247;
+color:white;}
+
+.btn2{background: #ff6247;
+    color:white;}
